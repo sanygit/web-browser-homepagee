@@ -12,7 +12,3 @@
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXk3ZGI4b3k4NzVyMTdxeTEybHo0OHdoc2J0Mnl2MWlsam1zNWN2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ehIlKtsqEnyBebR6fv/giphy.gif)
 
 ![Static Badge](https://img.shields.io/badge/Comment%20or%20raise%20issues%20if%20you%20face%20any%20problem-red)
-
-Credit goes to [Developer Rahul](https://www.youtube.com/@developerRahul)
-
-
